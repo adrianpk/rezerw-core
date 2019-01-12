@@ -1,0 +1,8 @@
+main
+*.bak
+**/*.bak
+.vscode/launch.json
+../.vscode/
+godel
+godelw
+
